@@ -11,19 +11,18 @@ html,body {
 
 #headshot {
   width: 103px;
+  float:right;
 }
 
 #headshot img {
-  width: 85%;
+  width: 120%;
 }
 
 #Name{
-  float: left;
 }
 
 #contactDetails{
   list-style-type:none;
-  float: right;
 }
 
 #Name h1{
