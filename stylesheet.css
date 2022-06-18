@@ -1,0 +1,65 @@
+html,body {
+  background: #181616;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+
+#Banner {
+  padding: 25px 35px;
+  border-bottom: 2px solid #FFFFFF
+}
+
+#headshot {
+  width: 103px;
+}
+
+#headshot img {
+  width: 85%;
+}
+
+#Name{
+  float: left;
+}
+
+#contactDetails{
+  list-style-type:none;
+  float: right;
+}
+
+#Name h1{
+  font-size: 2.5em;
+  font-weight: 700;
+  color: #2181A1;
+  margin: 0px 0px;
+}
+
+#Name h2{
+  font-size: 2em;
+  color: #2181A1;
+  margin: 0px 0px;
+}
+
+#container{
+  width: 90%;
+  max-width: 1000px;
+  margin: 30px auto;
+  background-color: #232628;
+}
+
+.sectionTitle{
+  font-size:1em;
+  color: #2181A1;
+}
+
+#mainDetails{
+  padding: 0px 40px;
+  border-bottom: 2px #FFFFFF;
+
+}
+
+p{
+  font-size: 1em;
+  line-height: 1.4em;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
