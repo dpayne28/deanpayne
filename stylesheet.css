@@ -62,3 +62,7 @@ p{
   margin-top: 0px;
   margin-bottom: 20px;
 }
+
+#profilePic1 img{
+  width: 100%
+}
