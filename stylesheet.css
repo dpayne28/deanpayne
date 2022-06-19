@@ -46,7 +46,7 @@ html,body {
 }
 
 .sectionTitle{
-  font-size:1em;
+  font-size:1.4em;
   color: #2181A1;
 }
 
@@ -65,4 +65,9 @@ p{
 
 #profilePic1 img{
   width: 30%
+}
+
+.sectionContent h5{
+  font-size: 1em;
+  color: #2181A1;
 }
